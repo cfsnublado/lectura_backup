@@ -27,11 +27,8 @@ def get_mimetype(filename):
 
 
 def get_user_auth_token(token_url):
-    # username = input("Username: ")
-    # password = getpass.getpass("Password: ")
-
-    username = "cfs"
-    password = "Pizza?69p"
+    username = input("Username: ")
+    password = getpass.getpass("Password: ")
 
     r = requests.post(
         token_url,
