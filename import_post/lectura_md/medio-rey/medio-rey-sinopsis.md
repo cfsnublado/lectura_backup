@@ -1,6 +1,6 @@
 ---
 post_name: Medio rey: Sinopsis
-post_description: Segundo libro de la trilogía El mar quebrado, de Joe Abercrombie
+post_description: Un fragmento del libro _Medio rey_, de Joe Abercrombie.
 project_name: Medio rey
 
 ---

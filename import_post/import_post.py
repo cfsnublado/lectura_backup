@@ -87,8 +87,6 @@ def post_markdown_to_dict(md_text):
     md_text = md_text.replace(post_audios_div, '')
     data_dict["content"] = md_text
 
-    print("{0} markdown has been converted.".format(data_dict["name"]))
-
     return data_dict
 
 

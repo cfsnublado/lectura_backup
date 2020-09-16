@@ -9,6 +9,6 @@ Pues básicamente es tener la cabeza hueca, no saber pensar bien, ser un bobo, u
 
 <div class="post-audios" markdown="1">
 
-¿Qué es ser un tonto?: https://www.dropbox.com/s/78sasx1tccz6sqw/cabezahueca2.mp3?dl=1
+¿Qué es ser un tonto?: https://www.dropbox.com/s/udn1x3jlxec6t0a/que-es-ser-un-tonto.mp3?dl=1
 
 </div>
